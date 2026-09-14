@@ -18,10 +18,10 @@ Open index.html in the browser of your choice.
 See commits.
 
 ## Credits
-Kathleen Cuzzocrea
-Storm
-Crystal 
-Olivia
+- Kathleen Cuzzocrea
+- Storm
+- Crystal 
+- Olivia
 
 ## License
 MIT
