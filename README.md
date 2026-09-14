@@ -19,6 +19,9 @@ See commits.
 
 ## Credits
 Kathleen Cuzzocrea
+Storm
+Crystal 
+Olivia
 
 ## License
 MIT
