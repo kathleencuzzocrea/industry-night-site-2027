@@ -115,7 +115,9 @@
         flex: 0 0 500px;
         height: fit-content;
         margin-left: 0px;
-        top: 175px;
+        top: 295px;
+
+        background-color: transparent;
     }
 }
 
@@ -146,6 +148,16 @@
 
     @media screen and (min-width: 800px) {
         bottom: -15%;
+
+        .content {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            padding: 10px 30px;
+            background-color: rgb(139, 131, 131);
+            border-radius: 20px;
+        }
+
     }
 }
 
@@ -210,6 +222,9 @@
         top: 55%;
     }
 }
+
+
+
 
 
 

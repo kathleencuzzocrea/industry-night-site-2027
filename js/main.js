@@ -4,7 +4,7 @@ const timeline = document.querySelector('#timeline');
 const studentProjects = [
     {
         year: 2007,
-        details: 'These are fake details for the purposes of testing that my object works'
+        details: 'These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works.'
     },
     {
         year: 2008,
@@ -12,11 +12,11 @@ const studentProjects = [
     },
     {
         year: 2009,
-        details: 'These are fake details for the purposes of testing that my object works'
+        details: 'These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works'
     },
     {
         year: 2010,
-        details: 'These are fake details for the purposes of testing that my object works'
+        details: 'These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works. These are fake details for the purposes of testing that my object works.'
     },
 ];
 
