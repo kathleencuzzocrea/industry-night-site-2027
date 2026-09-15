@@ -43,7 +43,7 @@ function buildTimeline() {
         let cardDetails = document.createElement('p');
 
         card.classList.add('timeline-card');
-        card.classList.add('timeline-position');
+        card.classList.add('position');
         contentCon.classList.add('content');
 
         cardHeading.innerText = `${p.year}`;
